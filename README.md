@@ -33,7 +33,7 @@ A clean, responsive ToDo list app built with React. Add tasks, mark them complet
 git clone https://github.com/Premchand-007/ToDO-List.git
 
 # Go into the project folder
-cd <your-repo-name>
+cd TODo-List
 
 # Install dependencies
 npm install
